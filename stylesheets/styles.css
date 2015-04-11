@@ -4,7 +4,15 @@ body {
   padding: 50px;
   font: 18px/1 'Poiret One', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #777;
-  font-weight: 700;
+  font-weight: 700; 
+}
+
+.background {
+  width: 100%;
+  height: 130px;
+  background: rgba(0, 0, 0, 0) url('../images/linea.png') no-repeat 0 0;
+  position: fixed;
+  bottom: 5px;
 }
 
 h1, h2, h3, h4, h5, h6 {
