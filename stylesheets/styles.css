@@ -54,7 +54,7 @@ a small {
 }
 
 .wrapper {
-  width:860px;
+  width:1200px;
   margin:0 auto;
 }
 
@@ -104,9 +104,7 @@ img {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
+  width:430px;
 }
 
 header ul {
@@ -209,8 +207,6 @@ footer {
   }
   
   section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
   }
